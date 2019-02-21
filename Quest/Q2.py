@@ -13,5 +13,6 @@ for i in list:
         list1.append(i)
     elif i < 0:
         list2.append(i)
+        #结果是
 print("正数有",list1)
 print("负数有",list2)
